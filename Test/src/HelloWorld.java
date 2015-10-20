@@ -20,8 +20,7 @@ public class HelloWorld {
 
     public static void main(String[] args) {
         // Prints "Hello, World" to the terminal window.
-        System.out.println("Hello, World. Fuck you !!!");
-        System.out.println("Love it !!!! ;)");
+        System.out.println("Another message");
     }
 
 }
