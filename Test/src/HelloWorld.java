@@ -26,6 +26,10 @@ public class HelloWorld {
     public static void anotherMethod(){
     	System.out.println("Stupid method");
     }
-
+    
+    public static void andAnotherMethod(){
+    	System.out.println("Fuckin' method");
+    }
+    
 }
 
