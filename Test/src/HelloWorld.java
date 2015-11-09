@@ -35,6 +35,10 @@ public class HelloWorld {
     	System.out.println("Stupid method 3 mierda");
     }
     
+    public static void anotherMethod6(){
+    	System.out.println("Stupid method 3 mierda");
+    }
+    
     public int i = 7;
     
     public int i = 8;
