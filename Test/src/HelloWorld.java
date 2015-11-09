@@ -30,6 +30,10 @@ public class HelloWorld {
     public static void anotherMethod2(){
     	System.out.println("Stupid method");
     }
+    
+    public static void anotherMethod3(){
+    	System.out.println("Stupid method 3");
+    }
 
 }
 
