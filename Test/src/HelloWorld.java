@@ -32,7 +32,7 @@ public class HelloWorld {
     }
     
     public static void anotherMethod3(){
-    	System.out.println("Stupid method 3 mierda");
+    	System.out.println("Stupid method 5 mierda");
     }
     
     public static void anotherMethod6(){
