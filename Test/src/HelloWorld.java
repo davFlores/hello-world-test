@@ -37,6 +37,7 @@ public class HelloWorld {
     
     public int i = 7;
     
+    public int i = 8;
 
 }
 
