@@ -20,8 +20,28 @@ public class HelloWorld {
 
     public static void main(String[] args) {
         // Prints "Hello, World" to the terminal window.
-        System.out.println("Hello, World. Fuck you !!!");
-        System.out.println("Love it !!!! ;)");
+        System.out.println("Another message");
     }
+    
+    public static void anotherMethod(){
+    	System.out.println("Stupid method");
+    }
+    
+    public static void anotherMethod2(){
+    	System.out.println("Stupid method");
+    }
+    
+    public static void anotherMethod3(){
+    	System.out.println("Stupid method 5 mierda");
+    }
+    
+    public static void anotherMethod6(){
+    	System.out.println("Stupid method 4 mierda");
+    }
+    
+    public int i = 7;
+    
+    public int i = 8;
 
 }
+
